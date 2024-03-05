@@ -7,5 +7,5 @@ This is my demo repository for Stats 220.
 * **Shoutout to brogy**
 * *Brogy*
 
-### Meme
-![link to meme](https://imageio.forbes.com/specials-images/imageserve/5ed578988b3c370006234c35/0x0.jpg?format=jpg&crop=1031,1031,x43,y49,safe&height=416&width=416&fit=bounds)
+### Link
+[link to course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
