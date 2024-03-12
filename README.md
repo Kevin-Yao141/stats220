@@ -1,7 +1,9 @@
-# stats220
+
+# STATS 220
 This is my demo repository for Stats 220.
 ## Introduction 
 * **By Kevin Yao**
+* Third-year compsci
 * *For STATS 220 Semester 1 2024.*
 
 ### Purpose of repository
@@ -13,3 +15,5 @@ This is my demo repository for Stats 220.
 
 ### Link
 [link to course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
+
+[Chill af]([https://www.instagram.com/reel/C2eyK7WP1BQ)
