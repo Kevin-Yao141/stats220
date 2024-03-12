@@ -16,4 +16,4 @@ This is my demo repository for Stats 220.
 ### Link
 [link to course outline](https://courseoutline.auckland.ac.nz/dco/course/STATS/220/1243)
 
-[Chill af]([https://www.instagram.com/reel/C2eyK7WP1BQ)
+[Chill af dog](https://www.instagram.com/reel/C2eyK7WP1BQ)
